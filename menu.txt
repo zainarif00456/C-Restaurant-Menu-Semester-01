@@ -1,0 +1,5 @@
+Items				Price
+Burger				100
+Pizza				500
+Cold_drinks				80
+fish				200

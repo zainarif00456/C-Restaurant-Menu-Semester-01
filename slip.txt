@@ -1,0 +1,6 @@
+Name:			Zain
+ID Card:		8972638975628
+Mobile No:		862354768
+Total Bill:		Rs.1080
+Costumer Paid:		Rs.1200
+Remaining Amount:	Rs.120
